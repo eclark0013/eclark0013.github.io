@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "First Rails Project: Tough but Rewarding"
-date:       2020-02-11 21:30:47 +0000
+date:       2020-02-11 16:30:49 -0500
 permalink:  first_rails_project_tough_but_rewarding
 ---
 
