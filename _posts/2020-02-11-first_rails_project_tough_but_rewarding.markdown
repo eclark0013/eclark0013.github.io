@@ -8,6 +8,16 @@ permalink:  first_rails_project_tough_but_rewarding
 
 I just completed my first rails project: a recipe and grocery list database that can create lists by adding recipes and/or individual items.
 
+Let's start with a little bit about the project and its inspiration and then I'll get into some of the challenges and areas for improvement.
+
+My first Rails webapp is called [grocerylister](https://github.com/eclark0013/grocerylister/) and it was born out of the dream of making my own life of making grocery lists easier. I am 5 years married with one kid and another on the way. After a couple years of meal-time tension, we finally got into a habit of meal planning whic means making a list of 5 to 6 recipes every two weeks and grocery shopping for those items in addition to some snacks and other miscelaneous items. Though this has made our life much easier at meal time, it is still a pain to make that list each time my wife or I go shopping. We have to open up the cook book and go through each recipe and write down all the ingredients we need and then after everything is written down then go back through and see what we've written twice or already have and blah, blah, blah. It's annoying. You get the point. Way too much work. And way too much repeated work to be looking up recipes multiple times. We have about 20-30 recipes we work through so it's just enough to be a pain to look it up each time because we don't remember exactly what it calls for and how much of those ingredients.
+
+That's where this app comes in. You put in the work on the front end of putting in your recipes with their ingredients and quantities and you never have to do it again. Just make a list and check off the recipes you want to include for your next trip to Trader Joe's!
+
+My favorite feature is that the items on a list are organized by category making it easier to go around the store and get everything as you go without scanning the list and missing things and zig-zagging around the store. Maybe this is genius and can help others. Maybe it's just fantastic for me. I will certainly be using it and am excited to enter in my recipes.
+
+As for the process of actually making this a reality...
+
 I found myself repeatedly running into walls with this project. I was warned when I started working with rails that there was a lot of "magic". I could see this in small ways while I was laerning the basics of it but only in a real sense when I started working with thr project. Let me go through a few of the challenges:
 
 Scope: I found myself multiple times defining methods that were not accessible to the object that were calling them. I think this is just because of the size of the project and having to remember details such as items having a name in the database but no quantity, whereas additional items have a quantity but no name. I certainly could have been more precise at different times.
