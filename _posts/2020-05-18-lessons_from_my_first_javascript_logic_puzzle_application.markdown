@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Lessons from My First Javascript Logic Puzzle Application"
-date:       2020-05-18 17:51:28 +0000
+title:      "Lessons from a Javascript Logic Puzzle Application"
+date:       2020-05-18 13:51:29 -0400
 permalink:  lessons_from_my_first_javascript_logic_puzzle_application
 ---
 
